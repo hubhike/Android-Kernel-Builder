@@ -1,11 +1,11 @@
 [
 {
   "kernelSource": {
-    "name": "KernelSU-GTNeo_Dimensity_1200_Series",
-    "repo": "https://github.com/Yxiguan/mtk6893.git",
-    "branch": "binder",
-    "device": "cupida",
-    "defconfig": "cupida_defconfig"
+    "name": "Oneplus6t",
+    "repo": "https://github.com/LineageOS/android_kernel_oneplus_sdm845.git",
+    "branch": "lineage-21",
+    "device": "fajita",
+    "defconfig": "sdm845_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
